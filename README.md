@@ -39,6 +39,8 @@ Una aplicación móvil desarrollada en Flutter que permite convertir montos entr
 ---
 
 ## 📂 Estructura del Proyecto
+
+```bash
 conversor_monedas/
 ├── android/
 ├── ios/
@@ -50,6 +52,7 @@ conversor_monedas/
 ├── test/
 ├── pubspec.yaml
 └── README.md
+```
 
 
 - `lib/main.dart` → Archivo principal con toda la lógica y la interfaz
